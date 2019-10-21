@@ -9,7 +9,7 @@ public class InsertionSort {
             int j = i-1;
             while ( (j > -1) && ( array [j] > key ) ) {
                 array [j+1] = array [j];
-                j= j-1;
+                j = j-1;
             }
 
             array[j+1] = key;

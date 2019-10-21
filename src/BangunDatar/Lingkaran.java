@@ -1,6 +1,6 @@
 package BangunDatar;
 
-class Lingkaran extends  BangunDatar {
+class Lingkaran extends BangunDatar {
     float r;
 
     @Override
